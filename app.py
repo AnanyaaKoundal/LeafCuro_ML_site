@@ -26,8 +26,6 @@ from flask import Flask, redirect, url_for, request, render_template
 from werkzeug.utils import secure_filename
 from datetime import datetime
 import sqlite3
-from flask_sqlalchemy import SQLAlchemy
-from flask_bcrypt import Bcrypt
 from flask import session
 
 app = Flask(__name__)
