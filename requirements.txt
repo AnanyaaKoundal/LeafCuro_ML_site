@@ -2,7 +2,6 @@ Flask==2.2.3
 Flask_Bcrypt==1.0.1
 flask_sqlalchemy==3.0.5
 numpy==1.23.5
-Pillow==9.5.0
 Pillow==10.0.0
 rembg==2.0.32
 tensorflow==2.12.0
